@@ -6,8 +6,8 @@ These models have been implemented over and over again and are available in many
 
 # 1 Implementation of the `LinearRegression` class
 
-Before evaluating any data, we need some code to actually `fit`, `predict`, and `score` samples. This will be implemented in `LinearRegression.py` provided in this repository. The skeleton of the class is already there. In part 1, you will need to implement the `fit`, `predict`, and `score` functions.
-
+ Before evaluating any data, we need some code to actually `fit`, `predict`, and `score` samples. This will be implemented in `LinearRegression.py` provided in this repository. The skeleton of the class is already there. In part 1, you will need to implement the `fit`, `predict`, and `score` functions.
+ 
 After implementing these 3 functions, you will be able to use this model simply with any regression task.
 
 ## 1.2 The `fit` method
